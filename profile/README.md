@@ -24,35 +24,12 @@ If you're interested in contributing, please reach out to us at 📧 **info@stra
 We’re excited to hear from you and explore ways we can build great things together!
 
 
-
 ## 🐛 Reporting Bugs
 
-We appreciate your help in making our tools better! If you run into a bug or something doesn’t seem to be working right, please let us know. Here's how to report it so we can troubleshoot quickly and effectively:
-
-### 📥 How to Report a Bug
-
-1. **Go to the Issues tab** of this repository.
-2. Click **“New Issue”** and select **“Bug Report.”**
-3. Fill out the form with as much detail as you can.
-
-### 🧾 What to Include in Your Report
-
-Please try to include the following:
-
-- **A clear description** of the problem  
-  _What did you expect to happen? What actually happened?_
-
-- **Steps to reproduce the issue**  
-  _List out what you did, step-by-step, leading up to the bug._
-
-- **Screenshots or videos** (if possible)  
-  _This helps us see exactly what you’re seeing._
-
-- **The environment you're using**  
-  _Let us know if you're using a web browser (Chrome, Safari, etc.), mobile app, or something else._
-
-- **Any error messages**  
-  _If there’s a message that pops up, copy and paste it or share a screenshot._
-
-
-If you're not sure about something, don't worry — just do your best. We’ll follow up with any questions we have. Thank you for helping us improve!
+### 📥 Email Us Directly
+Send an email to **bugs@stratifylabs.io** with the following helpful details:
+- **What happened & what you expected** — describe clearly in your own words.
+- **Steps to reproduce** — how did you encounter the issue?
+- **Where you saw it** — web, desktop app, mobile, or something else.
+- **Screenshots or screen recordings** — very helpful!
+- **Any error messages** you noticed.
