@@ -1,5 +1,10 @@
 # 🚀 Stratify Labs
 
+[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml/badge.svg?branch=dev)](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml)
+[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml/badge.svg?branch=dev)](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml)
+[![Build](https://github.com/StratifyLab/brio-devops/actions/workflows/Deploy-to-Oracle.yml/badge.svg)](https://github.com/StratifyLab/brio-devops/actions/workflows/Deploy-to-Oracle.yml)
+
+
 Welcome to **Stratify Labs** — where we create smart, intuitive tools that help small and medium-sized businesses work better. Our goal is to simplify your processes and build software that actually makes life easier. 🧠💼
 
 Our flagship app, **Brio**, is an all-in-one platform for project and legal matter management. Designed to keep your team organized and on track, Brio combines tasks, documents, time tracking, and invoicing into a single, easy-to-use space. It started as a tool for law firms—helping them track billable hours, manage case files, and generate invoices—but it's flexible enough for any business. With features like Kanban boards, smart reporting, and workflow automation, Brio helps you get more done, faster.
