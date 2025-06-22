@@ -1,7 +1,7 @@
 # 🚀 Stratify Labs
 
-[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml/badge.svg?branch=dev)](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml)
-[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml/badge.svg?branch=dev)](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml)
+[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml/badge.svg)](https://github.com/StratifyLab/brio/actions/workflows/BuildOnRender.yml)
+[![Build](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml/badge.svg)](https://github.com/StratifyLab/brio/actions/workflows/BuildOracle.yml)
 [![Build](https://github.com/StratifyLab/brio-devops/actions/workflows/Deploy-to-Oracle.yml/badge.svg)](https://github.com/StratifyLab/brio-devops/actions/workflows/Deploy-to-Oracle.yml)
 
 
